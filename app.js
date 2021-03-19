@@ -81,4 +81,4 @@ client.on("message", (msg) => {
   }
 });
 
-client.login("ODA1OTg4NTM5NzQ5MTA1NzE1.YBi5Ug.GqFbpzSwuXo1wZX9r2Zll_qxS5w");
+client.login("haha token go brrr");
