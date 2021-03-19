@@ -10,7 +10,7 @@ client.on("ready", () => {
 
 client.on("message", (msg) => {
   //only respond to specific user
-  if (msg.author.id !== "671139719127498794") return;
+  if (msg.author.id !== "enter user id here") return;
 
   //get current time
   let now = new Date().getTime();
