@@ -1,0 +1,2 @@
+# LogCabin
+Discord Chat Bot
