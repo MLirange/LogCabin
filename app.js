@@ -81,4 +81,4 @@ client.on("message", (msg) => {
   }
 });
 
-client.login("haha token go brrr");
+client.login("x");
